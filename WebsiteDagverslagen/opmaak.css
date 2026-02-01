@@ -20,3 +20,12 @@ nav{
   text-decoration:none;
   color:darkcyan;
 }
+
+footer{
+  margin-top: 100px;
+  margin-right: 80px;
+}
+
+body{
+  text-align: center;
+}
