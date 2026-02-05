@@ -1,6 +1,7 @@
 #Logo {
   border-radius: 10px;
   width: 120px;
+  margin-right: 300px;
 }
 
 nav{
@@ -28,4 +29,12 @@ footer{
 
 body{
   text-align: center;
+}
+
+aside{
+  float: left;
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-left: 20px;
 }
